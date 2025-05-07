@@ -371,7 +371,7 @@ class YTDownloaderGUI(tk.Tk):
         msg = (
             "常見解決方案:\n\n"
             "● 無法下載 → 先更新 yt‑dlp\n"
-            "● 無法合併影音 → 下載ffmpeg"
+            "● 無法合併影音 → 下載ffmpeg\n"
             "● 受限制影片 → 匯出 cookies.txt\n"
             "● 需密碼 → 打勾並輸入密碼\n"
             "● 仍失敗 → 在終端執行 yt-dlp --list-formats <URL> 查看\n"
